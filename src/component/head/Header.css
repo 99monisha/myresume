@@ -98,3 +98,11 @@ header {
       height: 10vh;
     }
   }
+
+  /*
+  
+  <div className='protfolio_item_cta'>
+            <a href={github} className='btn' target='_blank'>Github</a>
+            <a href={demo} className='btn btn-primary'target='_blank'>LiveDemo</a>
+            </div>
+  */
