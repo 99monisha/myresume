@@ -1,6 +1,7 @@
 header {
     height: 10vh;
     line-height: 10vh;
+    padding: 0 90px 0 90px;
   }
   header .container {
     padding-top: 15px;
@@ -10,7 +11,7 @@ header {
   }
   header ul li a {
     transition: 0.5s;
-    font-size: 13px;
+    font-size: 15px;
     font-weight: 500;
     letter-spacing: 1px;
   }

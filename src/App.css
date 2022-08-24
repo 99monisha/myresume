@@ -94,7 +94,7 @@ button {
   font-weight: 400;
 }
 .heading h1 {
-  font-size: 60px;
+  font-size: 65px;
   color: #3c3e41;
 }
 h1 {
@@ -103,7 +103,8 @@ h1 {
 .grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-gap: 35px;
+  grid-gap: 40px;
+
 }
 p {
   color: #3c3e41;

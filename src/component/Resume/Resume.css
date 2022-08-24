@@ -1,12 +1,16 @@
+.Resume{
+  padding: 0 100px 0 100px;
+}
 .Resume .heading h1 {
     font-size: 40px;
   }
   .Resume .content {
-    max-width: 85%;
+    max-width: 80%;
     margin: auto;
+ 
   }
   .Resume .box {
-    padding: 40px;
+    padding: 20px;
   }
   .Resume hr {
     margin: 30px 0 30px 0;

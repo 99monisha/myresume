@@ -20,8 +20,8 @@ const Hero = () => {
               a
               <span>
                 <Typewriter
-                 words={['Student Coder', ' Developer']}
-                 loop
+                 words={['Student Coder','Developer']}
+                 loop={2}
                  cursor cursorStyle='|'
                   typeSpeed={100}
                   deleteSpeed={100} 
