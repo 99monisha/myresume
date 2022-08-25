@@ -1,5 +1,5 @@
 import React, { useState } from "react"
-import contact1 from  '../pic/me.jpg'
+import contact1 from  './cc.jpg'
 import "./Contact.css"
 
 const Contact = () => {
@@ -44,15 +44,15 @@ const Contact = () => {
           <div className='content d_flex'>
             <div className='left'>
               <div className='box box_shodow'>
-                <div className='img'>
+                <div className='img kkk'>
                   <img src={contact1} alt='' />
                 </div>
                 <div className='details'>
                   <h1>Monisha Dolai</h1>
-                  <p>nbn hg guihuj  gyu yhgh guyhjgjuhyguy uih u g</p>
-                  <p>nbjzb uhxs ixh gsxhj xskxns, xsjx shvx gs sgxshyuxhks xjskoxjasiouxj sxhbsi xgshyuxg syug xsu </p> <br />
+                  <p>sonakhali,Paschim Medinipur</p>
+                  <p>Contact me through below----</p> <br />
                   <p>Phone: +01234567890</p>
-                  <p>Email: admin@example.com</p> <br />
+                  <p>Email: monishadolai1998@.com</p> <br />
                   <span>FIND WITH ME</span>
                   <div className='button f_flex'>
                   <button className='btn_shadow'>
