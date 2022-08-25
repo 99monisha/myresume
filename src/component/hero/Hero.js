@@ -1,9 +1,9 @@
 import React from "react"
 import "./Hero.css"
 import hero from "../pic/moni.png"
-import skill1 from "../pic/1.png"
-import skill2 from "../pic/2.png"
-import skill3 from "../pic/a2.png"
+import skill1 from "../pic/ds.png"
+import skill2 from "../pic/cc.png"
+import skill3 from "../pic/ww.png"
 import { Typewriter } from "react-simple-typewriter"
 
 const Hero = () => {
@@ -21,29 +21,30 @@ const Hero = () => {
               <span>
                 <Typewriter
                  words={['Student Coder','Developer']}
-                 loop={2}
-                 cursor cursorStyle='|'
-                  typeSpeed={100}
-                  deleteSpeed={100} 
-                  delaySpeed={1500} />
+                 loop={5}
+                 typeSpeed={70}
+                 deleteSpeed={50}
+                 delaySpeed={1000}
+                  />
               </span>
             </h2>
 
-            <p>lorem1h uh hiuh i hui hih uih j hxdd cdhgcu dich ducihduyhxgducdyuhdgy cdfycxfdgtx fdgtfxydtf xyf 
+            <p>I am a fresher,pursuing B.Tech in CSE. I like to Code, Design. I am an enthusiastic who loves 
+              to take up new challenges and learn new skills. I love spreading knowledge and positivity
             </p>
             <div className='hero_btn d_flex'>
               <div className='col_1'>
                 <h4>FIND WITH ME</h4>
                 <div className='button'>
                   <button className='btn_shadow'>
-                    <i class='fab fa-facebook-f'></i>
+                   <a href=" https://mail.google.com/mail/u/0/"> <i class="fa-solid fa-envelope"></i> </a>      
+                  </button>
+                  <button className='btn_shadow'><a href="https://github.com/99monisha">
+                  <i class="fa-brands fa-github"></i></a>
                   </button>
                   <button className='btn_shadow'>
-                    <i class='fab fa-instagram'></i>
-                  </button>
-                  <button className='btn_shadow'>
-                    <i class='fab fa-linkedin-in'></i>
-                  </button>
+                    <a href="https://www.linkedin.com/feed/"><i class='fab fa-linkedin-in'></i></a>
+              </button>
                 </div>
               </div>
               <div className='col_1'>

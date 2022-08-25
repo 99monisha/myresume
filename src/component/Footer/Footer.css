@@ -1,0 +1,19 @@
+.Footer{
+    padding: 0px 100px 0 100px;
+    margin-top: 50px;
+
+  }
+ 
+  .topp{
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 10px;
+    background-color: #ffff;
+    padding-top: 30px;
+  }
+  .center{
+align-items: center;
+justify-content: center;
+gap: 29px;
+margin-top: 20px;
+  }

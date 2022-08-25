@@ -37,13 +37,10 @@ const Header = () => {
                 <a href='#clients'>clients</a>
               </li>
               <li>
-                <a href='#blog'>blog</a>
-              </li>
-              <li>
                 <a href='#contact'>contact</a>
               </li>
               <li>
-                <button className='home-btn'>BUY NOW</button>
+                <button className='home-btn'><a href='#contact'>MESSAGE ME</a></button>
               </li>
             </ul>
 

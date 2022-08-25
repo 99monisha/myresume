@@ -22,9 +22,7 @@ body {
 .f_flex {
   display: flex;
 }
-.logo{
 
-}
 .logo img{
   width: 60px;
   height: 60px;
@@ -65,7 +63,7 @@ button {
   box-shadow: 4px 4px 8px #cbcbcb, -4px -4px 8px #ffffff;
 }
 .btn_shadow:hover {
-  background: #ff014f;
+  background: rgba(2, 2, 141, 0.626);
   color: white;
   transform: translateY(-10px);
 }
@@ -89,7 +87,7 @@ button {
   margin: 50px 0 50px 0;
 }
 .heading h4 {
-  color: #ff014f;
+  color: rgba(2, 2, 141, 0.626);
   letter-spacing: 2px;
   font-weight: 400;
 }
@@ -113,7 +111,7 @@ p {
   text-align: center;
 }
 .primary_color {
-  color: #ff014f;
+  color: rgba(2, 2, 141, 0.626);
 }
 textarea,
 input {

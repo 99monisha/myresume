@@ -35,7 +35,7 @@
   }
   .Contact .right button {
     width: 100%;
-    color: #ff014f;
+    color: rgba(2, 2, 141, 0.626);
   }
   .Contact .right button:hover {
     color: white;

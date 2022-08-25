@@ -16,7 +16,7 @@ header {
     letter-spacing: 1px;
   }
   header ul li a:hover {
-    color: #ff014f;
+    color: rgba(2, 2, 141, 0.626);
   }
   .home-btn {
     padding: 18px 25px;
@@ -24,14 +24,14 @@ header {
     transition: 0.3s all ease;
     cursor: pointer;
     height: fit-content;
-    color: #ff014f;
+    color: rgba(2, 2, 141, 0.626);
   }
   .home-btn {
     background: linear-gradient(145deg, #e2e8ec, #ffffff);
     box-shadow: 4px 4px 8px #cbcbcb, -4px -4px 8px #ffffff;
   }
   .home-btn:hover {
-    background: #ff014f;
+    background: rgba(2, 2, 141, 0.626);
     color: white;
   }
   .open {
@@ -78,7 +78,7 @@ header {
       position: absolute;
       top: 35px;
       right: 20px;
-      color: #ff014f;
+      color: rgba(2, 2, 141, 0.626);
       display: block;
       font-size: 25px;
       z-index: 999;
@@ -88,7 +88,7 @@ header {
     }
     .close.home-btn {
       background: linear-gradient(145deg, #e2e8ec, #ffffff);
-      color: #ff014f;
+      color: rgba(2, 2, 141, 0.626);
       border-radius: 50%;
       padding: 0;
       width: 60px;

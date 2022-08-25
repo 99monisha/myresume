@@ -55,15 +55,15 @@ const Contact = () => {
                   <p>Email: admin@example.com</p> <br />
                   <span>FIND WITH ME</span>
                   <div className='button f_flex'>
-                    <button className='btn_shadow'>
-                      <i className='fab fa-facebook-f'></i>
-                    </button>
-                    <button className='btn_shadow'>
-                      <i className='fab fa-instagram'></i>
-                    </button>
-                    <button className='btn_shadow'>
-                      <i className='fab fa-twitter'></i>
-                    </button>
+                  <button className='btn_shadow'>
+                   <a href=" https://mail.google.com/mail/u/0/"> <i class="fa-solid fa-envelope"></i> </a>      
+                  </button>
+                  <button className='btn_shadow'><a href="https://github.com/99monisha">
+                  <i class="fa-brands fa-github"></i></a>
+                  </button>
+                  <button className='btn_shadow'>
+                    <a href="https://www.linkedin.com/feed/"><i class='fab fa-linkedin-in'></i></a>
+              </button>
                   </div>
                 </div>
               </div>
