@@ -9,13 +9,13 @@ const Footer = () => {
             <div className='topp'>FOLLOE ME
             <div className='button f_flex center'>
                   <button className='btn_shadow'>
-                   <a href=" https://mail.google.com/mail/u/0/"> <i class="fa-solid fa-envelope"></i> </a>      
+                   <a href=" https://mail.google.com/mail/u/0/" target="_blank"> <i class="fa-solid fa-envelope"></i> </a>      
                   </button>
-                  <button className='btn_shadow'><a href="https://github.com/99monisha">
-                  <i class="fa-brands fa-github"></i></a>
+                  <button className='btn_shadow' ><a href="https://github.com/99monisha" target="_blank">
+                  <i class="fa-brands fa-github" ></i></a>
                   </button>
                   <button className='btn_shadow'>
-                    <a href="https://www.linkedin.com/feed/"><i class='fab fa-linkedin-in'></i></a>
+                    <a href="https://www.linkedin.com/feed/" target="_blank"><i class='fab fa-linkedin-in'></i></a>
               </button>
                 </div>
                   </div>
